@@ -10,7 +10,7 @@ import br.com.agenda.modelo.Contato;
 
 /**
  *
- * @author alann
+ * @author daphnemillss
  */
 public class Main {
 
