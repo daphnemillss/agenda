@@ -23,8 +23,8 @@ public class Main {
         Contato contato = new Contato();
         
         
-        contato.setNome("alan");
-        contato.setFone("54654654654654564");
+        contato.setNome("Dafny G");
+        contato.setFone("5787554540383");
         
         
         contatoDao.persist(contato);
